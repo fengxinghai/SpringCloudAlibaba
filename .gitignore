@@ -1,7 +1,0 @@
-# Project exclude paths
-/spring-cloud-alibaba-common/target/
-/spring-cloud-alibaba-consumer/target/
-/spring-cloud-alibaba-gateway/target/
-/spring-cloud-alibaba-nacos-config/target/
-/spring-cloud-alibaba-provider/target/
-/spring-cloud-alibaba-providertwo/target/
